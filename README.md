@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Bhasha03/GOD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bhasha03/GOD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. A Person(say, Girl) in danger clicks a button on a special embedded device for help.
+2. All People/youngsters who are within a radius of 1KM around her are alerted on their phones.
+3. People are instantiated with a radar-like screen on their phones showing the location of the person in need.
+4. A crosshair-like indication will be provided about the girl's location. 
+5. The indication should be having a dynamic property i.e., it moves as the girl moves.(as the device moves)
+5. Girl's device and the helper's phone should start vibrating as a confirmation for the girl that someone is 
+   after her for rescue. so the girl can withstand the situation.
+6. The vibration(or a beep sound) should gradually increase as they(helpers) come close to the girl, this is 
+   because to say those guys(helpers) are in the right path and correctly approaching the girl.
+7. In this way, the younster can finally find the helpless girl for rescue.
